@@ -1,4 +1,4 @@
-```
+
 # Automated-SMS-Motivator
 
 Spring Boot program using the Twilio API to send motivational SMS messages whenever Iprocrastinate.
