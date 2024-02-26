@@ -46,6 +46,8 @@ This project depends on the following libraries:
 - Spring Boot
 - Twilio Java SDK
 - Google's libphonenumber
+- Spring Web
+- Validation (Bean I/O with Hibernate Validator)
 
 These dependencies are managed via Maven.
 
