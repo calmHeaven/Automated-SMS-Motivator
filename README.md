@@ -8,10 +8,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Java and Maven installed.
-3. Set up your Twilio account and obtain your account SID, auth token, and trial number.
-4. Update the `application.yaml` file with your Twilio credentials.
-5. Build the project using Maven.
-6. Run the application.
+3. Set up your Twilio account by visiting [Twilio's website](https://www.twilio.com/try-twilio) and signing up.
+4. Obtain your Twilio account SID, auth token, and trial number from the Twilio console.
+5. Update the `application.yaml` file with your Twilio credentials.
+6. Build the project using Maven.
+7. Run the application.
 
 ## Usage
 
